@@ -1,0 +1,2 @@
+C:\Users\sit433\Desktop\REACT_Controllers\obj\Debug\REACT_Controllers.pcfproj.AssemblyReference.cache
+C:\Users\sit433\Desktop\REACT_Controllers\obj\Debug\REACT_Controllers.pcfproj.CoreCompileInputs.cache

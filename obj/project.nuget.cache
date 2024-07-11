@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aSkLa4W8xKLJFn21a6vThleicPPGAF7xLPUDmkR1YS0eJCl6cOEXUl2KctvFlTf4R1tSpSnNtzVRxwvRmD4r5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sit433\\Desktop\\REACT_Controllers\\REACT_Controllers.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sit433\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\sit433\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\sit433\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.33.3\\microsoft.powerapps.msbuild.pcf.1.33.3.nupkg.sha512"
+  ],
+  "logs": []
+}
